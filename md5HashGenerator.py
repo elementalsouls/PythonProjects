@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import hashlib
 plain_txt = input("Please enter the word you want to convert: ")
 
