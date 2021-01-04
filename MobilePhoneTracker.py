@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import phonenumbers
 
 country_code = input("Please enter the country code :")
