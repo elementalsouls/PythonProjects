@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import hashlib
 flag = 0
 pass_hash = input("Please Enter the hash you want to crack :")
